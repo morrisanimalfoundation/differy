@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/pure-min.css" integrity="sha384-Uu6IeWbM+gzNVXJcM9XV3SohHtmWE+3VGi496jvgX1jyvDTXfdK+rfZc8C1Aehk5" crossorigin="anonymous">
+    <style>
+        body {
+          padding: 1em;
+        }
+    </style>
+    <title>{{ title }}</title>
+</head>
+<body>
+  <h1>{{ title }}</h1>
+  <article>
+      {{ content }}
+      <h2>Release Comparison</h2>
+      {% for image_path in visualizations %}
+        <img class="pure-img" src="{{ image_path }}" />
+      {% endfor %}
+  </article>
+</body>
+</html>

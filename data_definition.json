@@ -1,0 +1,122 @@
+[
+  {
+    "label": "Cardio",
+    "table_name": "conditions_cardio",
+    "join_columns": [
+      "dog_id",
+      "study_year",
+      "relationship_category",
+      "to_date"
+    ]
+  },
+  {
+    "label": "Ear Nose Throat",
+    "table_name": "conditions_ear_nose_throat",
+    "join_columns": [
+      "dog_id",
+      "study_year",
+      "relationship_category",
+      "to_date"
+    ]
+  },
+  {
+    "label": "Endocrine",
+    "table_name": "conditions_endocrine",
+    "join_columns": [
+      "dog_id",
+      "study_year",
+      "relationship_category",
+      "to_date"
+    ]
+  },
+  {
+    "label": "Eye",
+    "table_name": "conditions_eye",
+    "join_columns": [
+      "dog_id",
+      "study_year",
+      "relationship_category",
+      "to_date"
+    ]
+  },
+  {
+    "label": "Gastrointestinal",
+    "table_name": "conditions_gastrointestinal",
+    "join_columns": [
+      "dog_id",
+      "study_year",
+      "relationship_category",
+      "to_date"
+    ]
+  },
+  {
+    "label": "Hematologic",
+    "table_name": "conditions_hematologic",
+    "join_columns": [
+      "dog_id",
+      "study_year",
+      "relationship_category",
+      "to_date"
+    ]
+  },
+  {
+    "label": "Infectious",
+    "table_name": "conditions_infectious",
+    "join_columns": [
+      "dog_id",
+      "study_year",
+      "relationship_category",
+      "to_date"
+    ]
+  },
+  {
+    "label": "Musculoskeletal",
+    "table_name": "conditions_musculoskeletal",
+    "join_columns": [
+      "dog_id",
+      "study_year",
+      "relationship_category",
+      "to_date"
+    ]
+  },
+  {
+    "label": "Nervous",
+    "table_name": "conditions_nervous",
+    "join_columns": [
+      "dog_id",
+      "study_year",
+      "relationship_category",
+      "to_date"
+    ]
+  },
+  {
+    "label": "Reproductive",
+    "table_name": "conditions_reproductive",
+    "join_columns": [
+      "dog_id",
+      "study_year",
+      "relationship_category",
+      "to_date"
+    ]
+  },
+  {
+    "label": "Skin",
+    "table_name": "conditions_skin",
+    "join_columns": [
+      "dog_id",
+      "study_year",
+      "relationship_category",
+      "to_date"
+    ]
+  },
+  {
+    "label": "Urinary",
+    "table_name": "conditions_urinary",
+    "join_columns": [
+      "dog_id",
+      "study_year",
+      "relationship_category",
+      "to_date"
+    ]
+  }
+]
